@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kilian12321
 - 👀 I’m interested in Computer
-- 🌱 I’m currently learning  java und html (anfänger)
+- 🌱 Ich lerne gerade c
 - 💞️ I’m looking to collaborate on garnichts
 - 📫 How to reach me per E-mail:kilian.benedikt.pfeifer@gmail.com
 
